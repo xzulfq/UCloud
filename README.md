@@ -4,7 +4,7 @@
 
 UCloud，作为一家中立云计算服务商，正在进行年中上云专场活动，提供“续费无忧”政策，所有新老客户均享续费同价优惠。活动包括云服务器、数据库、GPU、CDN、专线等多种产品，最低配置云服务器2核起，仅11.6元/月。此次促销活动包含两款特价轻量应用云主机：国内2核2G4M新用户仅59元/年（限购1台），海外2核2G30M新用户仅89元/年。
 
-![UCloud优刻得怎么样？UCloud介绍和测评](https://github.com/user-attachments/assets/2836532d-931f-4a0d-a499-7bf502754640)
+![UCloud优刻得怎么样？UCloud介绍和测评](https://github.com/user-attachments/assets/d04e0ec4-56f0-4eb7-a8b6-31c0ebb3282a)
 
 ## UCloud官网地址
 
